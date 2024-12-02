@@ -1,5 +1,5 @@
 /*
-!/dist/
-!/dist/**/*
+!/docs/
+!/docs/**/*
 !/.gitignore
 !/LICENSE.txt
