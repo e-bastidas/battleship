@@ -1,5 +1,14 @@
+# Ignore everything
 /*
-!/docs/
-!/docs/**/*
+
+# Un-ignore specific files/folders
 !/.gitignore
 !/LICENSE.txt
+!/docs/
+!/docs/**/*
+
+# Ignore node_modules and other unnecessary files
+node_modules/
+package-lock.json
+package.json
+src/
